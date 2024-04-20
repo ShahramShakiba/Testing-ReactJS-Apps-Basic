@@ -25,30 +25,26 @@ End-to-end tests are more comprehensive and simulate real-world scenarios by tes
 
 <!--===================== Testing ReactJS Apps =============================-->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" height="30"  /> &nbsp; _Testing ReactJS Apps_  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="20"  />
-- #### My primary objective for this project is to conduct thorough testing on React applications to ensure their functionality, performance, and reliability. <br/><br/>
+- #### I aim to thoroughly test _fundamental concepts_ in React applications to guarantee their functionality, performance, and dependability as the main goal of this project. <br/><br/>
  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="20" /> &nbsp; _Required Tools & Setup_ :
 - _We need a tool for running our tests and asserting the results_: &nbsp; • Jest
 - _We need a tool for "simulating" (rendering) our React app_: &nbsp;  • React Testing Library
 
-<br/><br/>
   
 > _Which Concepts in Have I Covered_:  
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="20" /> &nbsp; _Understanding Unit Tests_
-- ....
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="20" /> &nbsp; _Testing React Components & Building Blocks_
-- ....
+
 
  
 <br/>
 
-<!-------- try it live -------->
-#### _Give it a go in real-time and give me a Star_ &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25"  /> <a href="" target="_blank"> &nbsp; _...._ </a> 
-
- 
-<!--------- Video --------->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Clapper%20Board.webp" alt="Clapper Board" width="35" />
+> _To access further details, please refer the following two documents_: <br/>
+- <a href="https://jestjs.io/" target="_blank">_Jest_</a> <br/>
+- <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">_React Testing Library_</a> <br/>
+- <a href="https://github.com/testing-library/react-hooks-testing-library" target="_blank">_React Hook Testing Library_</a> 
 
 
 
