@@ -19,9 +19,10 @@ These tests validate the integration of various components and ensure that they 
 - Projects typically contain a couple of integration tests
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="20" /> &nbsp; _` End-to-End (E2E) Tests `_
 End-to-end tests are more comprehensive and simulate real-world scenarios by testing the Entire Application from start to finish.
-- Projects typically contain only a few E2E tests
+- Projects typically contain only a few E2E tests <br/><br/>
 
-***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--===================== Testing ReactJS Apps =============================-->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" height="30"  /> &nbsp; _Testing ReactJS Apps_  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="20"  />
 - #### My primary objective for this project is to conduct thorough testing on React applications to ensure their functionality, performance, and reliability. <br/><br/>
